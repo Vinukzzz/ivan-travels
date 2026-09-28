@@ -11,7 +11,7 @@ export default function HeroSection() {
         loop
         playsInline
         className="absolute inset-0 w-full h-full object-cover"
-        src="/HeroVid.mp4"
+        src="/herovid.mp4"
       />
 
       {/* ── Bottom gradient — keeps headline text readable ── */}
